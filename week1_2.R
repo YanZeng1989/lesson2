@@ -7,6 +7,7 @@ random<-rnorm(n=20)
 random
 data(cars)
 plot(cars)
+change
 
 library(sp)
 data(meuse.grid)
